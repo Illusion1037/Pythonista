@@ -1,0 +1,21 @@
+   BBBBBB           
+  BLLLLLLBB         
+ BGGGGGGLLBB        
+ BDDGGGGGBB         
+  BBBBBBBB          
+   BDDDDB           
+  BDDDDDDB           
+ BBBBBBBBBB          
+ BGGGGGGGGGBBBB      
+BDGGLLLLLLLLLGBBB   
+BDDGGGGGGGGGGGGGBBBB
+BDDDGGLLLLLLLLGBB   
+ BDDDDGGGGGGGGBB    
+  BBBBBBBBBBBBB     
+     BGGGGGB        
+      BDDDB         
+     BLLLLLB        
+    BBBBBBBBB       
+  BB     BB  BB     
+ BB       BB   B    
+
